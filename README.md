@@ -1,4 +1,4 @@
-# devis-gen
+# Algerian invoice generator
 
 Generate a quotation PDF (`devis.pdf`) from `template.json`.
 
@@ -18,4 +18,3 @@ This project is a practical generator/template; please verify wording and mandat
    - `.venv/bin/python index.py`
 
 The output file is written as `devis.pdf` in the project directory.
-
