@@ -1,0 +1,40 @@
+{
+  "entreprise": {
+    "raison_sociale": "Votre Société",
+    "adresse": "Adresse complète (ville, quartier, rue)",
+    "nif": "",
+    "telephone": "",
+    "email": ""
+  },
+  "client": {
+    "nom": "",
+    "raison_sociale": "",
+    "adresse": "",
+    "rc": "",
+    "nif": "",
+    "nis": "",
+    "ai": ""
+  },
+  "devis": {
+    "numero": "DEVIS-0001",
+    "date": "2026-03-30",
+    "validite": "30 jours",
+    "conditions_paiement": "Paiement à 30 jours par virement bancaire.",
+    "devise": "DZD",
+    "tva_applicable": true,
+    "taux_tva": 19,
+    "non_assujetti_tva": false
+  },
+  "lignes": [
+    {
+      "description": "Prestation 1 (description détaillée)",
+      "quantite": 1,
+      "prix_unitaire_ht": 10000
+    },
+    {
+      "description": "Prestation 2 (description détaillée)",
+      "quantite": 1,
+      "prix_unitaire_ht": 5000
+    }
+  ]
+}

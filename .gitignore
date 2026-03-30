@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.log
+*.swp
+*.swo
+
+# Generated files
+*.pdf
+
+# Misc
+.DS_Store
+
